@@ -5,7 +5,8 @@ We will perfrom intruder detection , any person entering inside a marked region 
 
 # Setup
 
-```conda create -n yolo_new
+```
+conda create -n yolo_new
 ```
 
 ```
