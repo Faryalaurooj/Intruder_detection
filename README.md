@@ -1,4 +1,5 @@
-# Intruder_detection
+# Intruder_detection_using_YOLOv8x
+
 We will perfrom intruder detection , any person entering inside a marked region of interest utilizing pre trained YOLOv8x
 
 
