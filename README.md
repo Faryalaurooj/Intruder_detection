@@ -2,6 +2,7 @@
 We will perfrom intruder detection , any person entering inside a marked region of interest utilizing pre trained YOLOv8x
 
 
+![Screenshot from 2024-12-26 09-02-06](https://github.com/user-attachments/assets/cc7b6b20-ee7b-4ec5-8592-d2cc6a190730)
 
 # Setup
 
